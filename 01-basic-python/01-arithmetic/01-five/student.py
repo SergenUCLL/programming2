@@ -1,2 +1,2 @@
-# Write your code here
-#test
+def five():
+    return 5
